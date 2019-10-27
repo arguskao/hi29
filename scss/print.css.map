@@ -1,11 +1,11 @@
 {
 	"version": 3,
 	"file": "print.css",
-	"sourceRoot": "/Volumes/Macintosh HD/hugo/farm/hi29.net/www",
+	"sourceRoot": "/Volumes/Macintosh HD/Hugo/github/hi29.net/www",
 	"sources": [
 		"themes/hyde-hyde/assets/scss/print.scss",
-		"../../../../hugo/farm/hi29.net/www/themes/hyde-hyde/assets/scss/hyde-hyde/_variables.scss",
-		"../../../../hugo/farm/hi29.net/www/themes/hyde-hyde/assets/scss/hyde-hyde/_print.scss"
+		"themes/hyde-hyde/assets/scss/hyde-hyde/_variables.scss",
+		"themes/hyde-hyde/assets/scss/hyde-hyde/_print.scss"
 	],
 	"sourcesContent": [
 		"@import \"hyde-hyde/variables\";\n@import 'hyde-hyde/print';\n",

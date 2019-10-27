@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>失眠很痛苦</title>
@@ -6,10 +6,19 @@
     <description>Recent content on 失眠很痛苦</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 25 Aug 2018 05:15:28 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Oct 2019 10:56:02 +0800</lastBuildDate>
     
 	<atom:link href="https://www.hi29.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Links</title>
+      <link>https://www.hi29.net/links/</link>
+      <pubDate>Fri, 25 Oct 2019 10:56:02 +0800</pubDate>
+      
+      <guid>https://www.hi29.net/links/</guid>
+      <description>活力藥師網 活力藥師網番外篇 東協跨境電商 就愛健康網 頂太豐膠囊 保養品工廠 寵物醫院 yoube網路行銷 失眠真痛苦 糖尿病教室 法鬥大小事</description>
+    </item>
     
     <item>
       <title>安眠藥會傷身體嗎？</title>
